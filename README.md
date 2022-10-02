@@ -6,12 +6,12 @@
        3-Air quality (AIR_2018) indicator.
        4-EPI (EPI_2018) indicator.
       
-![] (images/1.png)
+![Attribute table](images/1.png)
        
      
  ## It is a choropleth map based on CO2 emissions per person.
       
-      ![a](images/2.png)
+ ![The map](images/2.png)
       
  ### The Attributions:
 
