@@ -5,9 +5,8 @@
        2-CO2 emissions per person in 2018.
        3-Air quality (AIR_2018) indicator.
        4-EPI (EPI_2018) indicator.
-        
-        
-       ![a](/images/1.png)
+      
+![] (images/1.png)
        
      
  ## It is a choropleth map based on CO2 emissions per person.
