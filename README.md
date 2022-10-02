@@ -7,7 +7,7 @@
        4-EPI (EPI_2018) indicator.
         
         
-       ![](https://github.com/dahlalex/EPI/blob/main/images/1.png)
+       ![](/images/1.png)
        
      
  ## It is a choropleth map based on CO2 emissions per person.
