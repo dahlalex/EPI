@@ -90,7 +90,7 @@
         var layer_ESRIGraydark_2 = L.tileLayer('http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
             pane: 'pane_ESRIGraydark_2',
             opacity: 1.0,
-            attribution: '<a href="https://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/0">Esri</a>',
+            attribution: '<a href="https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer">Esri</a>',
             minZoom: 1,
             maxZoom: 28,
             minNativeZoom: 0,
@@ -228,7 +228,7 @@
         map.getPane('pane_CO2emissionspercapitaton_3').style.zIndex = 403;
         map.getPane('pane_CO2emissionspercapitaton_3').style['mix-blend-mode'] = 'normal';
         var layer_CO2emissionspercapitaton_3 = new L.geoJson(json_CO2emissionspercapitaton_3, {
-            attribution: '<a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">CO₂ and Greenhouse Gas Emissions</a> &middot; <a href="https://epi.yale.edu/" >Environmental Performance Index (EPI)</a> | Alex Dahl 02-10-2022',
+            attribution: '<a href="https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions">CO₂ and Greenhouse Gas Emissions</a> &middot; <a href="https://epi.yale.edu/" >Environmental Performance Index (EPI)</a> | <a href="https://dahlalex.github.io/EPI"> Alex Dahl 02-10-2022<a/>',
             interactive: true,
             dataVar: 'json_CO2emissionspercapitaton_3',
             layerName: 'layer_CO2emissionspercapitaton_3',
