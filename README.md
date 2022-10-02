@@ -12,7 +12,7 @@
      
  ## It is a choropleth map based on CO2 emissions per person.
       
-      ![](images/1.png)
+      ![a](images/1.png)
       
  ### The Attributions:
 
