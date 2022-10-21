@@ -1,10 +1,12 @@
 # CO2 Emissions and Air Quality in Europe in 2018
 
 ## There are 5 attributes to every feature:
-       1-Production-based CO2 emissions that European countries emit in 2018.
-       2-CO2 emissions per person in 2018.
-       3-Air quality (AIR_2018) indicator.
-       4-EPI (EPI_2018) indicator.
+       1- Country
+       2- Production-based CO2 emissions (million ton) that European countries emit in 2018.
+       3- CO2 emissions per person (ton) in 2018.
+       4- Environmental Performance Index (EPI_2018)
+       5- Air quality (AIR_2018) indicator.
+     
       
 ![Attribute table](images/1.png)
        
